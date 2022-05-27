@@ -1,1 +1,1 @@
-An implementational list of some hard to find image processing operations.
+An implementational list of some important image processing operations.
