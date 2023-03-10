@@ -6,7 +6,7 @@ An implementational list of some important image dataset processing operations.
     ```linear index of a matrix to subscript index
     |00 01 02|    |01 02 03| 
     |04 05 06| -> |10 11 12|
-    |07 08 09|    |20 21 22|```
+    |07 08 09|    |20 21 22|
 
 4. [splitter.py](https://github.com/yes-its-shivam/image-processing-scripts/blob/main/splitter.py): split image into parts of image\
   # split image into smaller segments of images 
