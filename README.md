@@ -11,7 +11,7 @@ An implementational list of some important image dataset processing operations.
 4. [splitter.py](https://github.com/yes-its-shivam/image-processing-scripts/blob/main/splitter.py): split image into parts of image\
     ```split image into smaller segments of images 
               |00 01 02 03| 
-    image ->   |10 11 12 13| 
+    image ->  |10 11 12 13| 
               |20 21 22 23|    
               |30 31 32 33|
 
