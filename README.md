@@ -19,12 +19,14 @@ An implementational list of some important image dataset processing operations.
               |10 11|  |12 13|
    splitted-> 
               |20 21|  |22 23|
-              |30 31|  |32 33| ```
+              |30 31|  |32 33|
+   ```
 5. [sub2ind.py](https://github.com/yes-its-shivam/image-processing-scripts/blob/main/sub2ind.py): subscript index  of matrix to linear index
-  # subscript index of a matrix to linear index
-  # |00 01 02|    |01 02 03|
-  # |10 11 12| -> |04 05 06|
-  # |20 21 22|    |07 08 09|
+   ```subscript index of a matrix to linear index
+   |00 01 02|    |01 02 03|
+   |10 11 12| -> |04 05 06|
+   |20 21 22|    |07 08 09|
+   ```
 6. [selenium_img_screenshot_colab.ipynb](https://github.com/yes-its-shivam/image-processing-scripts/blob/main/selenium_img_screenshot_colab.ipynb): screenshot image using selenium
 
 7. [urllib_image_download.ipynb](https://github.com/yes-its-shivam/image-processing-scripts/blob/main/urllib_image_download.ipynb): download image from url
